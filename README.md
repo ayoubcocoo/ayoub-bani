@@ -1,6 +1,9 @@
 # Responsive Web Portfolio 
 ![Responsive Portfolio](http://i68.tinypic.com/d7875.png)
 
+## Online Vesrion of the Website 
+https://ayoubcocoo.github.io/ayoub-bani/
+
 ## Technology used 
 - HTML5
 - CSS3
